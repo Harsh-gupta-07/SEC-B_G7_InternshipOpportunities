@@ -6,7 +6,7 @@ A data-driven analysis of **8,482 internship postings (2025–26 cycle)** aimed 
 
 ---
 
-## **🚀 Overview**
+## ** Overview**
 
 * Analyzed internship dataset sourced from Kaggle  
 * Performed data cleaning, feature engineering, and EDA using **Google Sheets**  
@@ -16,19 +16,19 @@ A data-driven analysis of **8,482 internship postings (2025–26 cycle)** aimed 
 
 ---
 
-## **🔑 Key Insights**
+## ** Key Insights**
 
-* 💰 **Tech & Sales roles dominate pay**, with top stipends reaching ₹1.5L/month  
-* 🧠 **7+ skills act as a threshold** for high-paying internships (₹25K+)  
-* 📍 **Bangalore leads** in opportunity volume and stipend averages  
-* 🏠 **Creative roles are highly remote-friendly**, offering strong WFH flexibility  
-* 📉 Most internships fall within the **₹7K–₹15K range**, indicating a right-skewed pay distribution  
-* 🗣️ **English proficiency is a common requirement** in high-paying roles  
+*  **Tech & Sales roles dominate pay**, with top stipends reaching ₹1.5L/month  
+*  **7+ skills act as a threshold** for high-paying internships (₹25K+)  
+*  **Bangalore leads** in opportunity volume and stipend averages  
+*  **Creative roles are highly remote-friendly**, offering strong WFH flexibility  
+*  Most internships fall within the **₹7K–₹15K range**, indicating a right-skewed pay distribution  
+*  **English proficiency is a common requirement** in high-paying roles  
    
 
 ---
 
-## **📈 Internship Personas Identified**
+## ** Internship Personas Identified**
 
 * **Tech-Elite:** High skill density (7+), stable stipends above ₹25K  
 * **Creative-Remote:** WFH-focused roles with strong perk offerings  
@@ -37,7 +37,7 @@ A data-driven analysis of **8,482 internship postings (2025–26 cycle)** aimed 
 
 ---
 
-## **🧠 Recommendations**
+## ** Recommendations**
 
 * Build **clusters of 5–8 complementary skills**   
 * Target **startup hubs like Bangalore/Chennai** for higher stipend potential  
@@ -48,7 +48,7 @@ A data-driven analysis of **8,482 internship postings (2025–26 cycle)** aimed 
 
 ---
 
-## **🎯 Impact**
+## ** Impact**
 
 * Enables targeted internship search and faster decision-making  
 * Helps students maximize stipend potential through strategic upskilling  
@@ -57,7 +57,7 @@ A data-driven analysis of **8,482 internship postings (2025–26 cycle)** aimed 
 
 ---
 
-## **🛠️ Tech & Tools**
+## ** Tech & Tools**
 
 * Google Sheets (Cleaning, EDA, Dashboard)  
 * Pivot Tables, Slicers, and KPI metrics  
@@ -65,7 +65,7 @@ A data-driven analysis of **8,482 internship postings (2025–26 cycle)** aimed 
 
 ---
 
-## **✅ Conclusion**
+## ** Conclusion**
 
 This project establishes a **data-backed framework for internship decision-making**, showing that **skill density, sector selection, and geographic targeting** are the strongest drivers of stipend value. The dashboard converts raw internship data into practical career intelligence for students navigating the 2025 internship market.
 
