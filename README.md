@@ -1,5 +1,7 @@
 ## **📊 Internship Opportunities in India (2025) — Data Analysis**
 
+![Dashboard](./Dashboard/SecB_G7_InternshipOpportunities.png)
+
 A data-driven analysis of **8,482 internship postings (2025–26 cycle)** aimed at helping students understand how **skills, location, and work mode** influence stipend outcomes. The project addresses the fragmented internship landscape in India by transforming raw listings into actionable career insights through cleaning, analysis, and dashboard visualization.
 
 ---
@@ -20,7 +22,7 @@ A data-driven analysis of **8,482 internship postings (2025–26 cycle)** aimed 
 * 🧠 **7+ skills act as a threshold** for high-paying internships (₹25K+)  
 * 📍 **Bangalore leads** in opportunity volume and stipend averages  
 * 🏠 **Creative roles are highly remote-friendly**, offering strong WFH flexibility  
-* 📉 Most internships fall within the **₹5K–₹15K range**, indicating a right-skewed pay distribution  
+* 📉 Most internships fall within the **₹7K–₹15K range**, indicating a right-skewed pay distribution  
 * 🗣️ **English proficiency is a common requirement** in high-paying roles  
    
 
@@ -37,7 +39,7 @@ A data-driven analysis of **8,482 internship postings (2025–26 cycle)** aimed 
 
 ## **🧠 Recommendations**
 
-* Build **clusters of 5–8 complementary skills** (e.g., MERN \+ Cloud)  
+* Build **clusters of 5–8 complementary skills**   
 * Target **startup hubs like Bangalore/Chennai** for higher stipend potential  
 * Leverage **remote Creative roles** to reduce relocation costs  
 * Prioritize internships offering **perks (LOR, certificate, flexibility)** for long-term career value  
